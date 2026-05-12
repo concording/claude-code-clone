@@ -1,0 +1,9 @@
+/* App layout root styles are in component stylesheets */
+
+.app-layout {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
